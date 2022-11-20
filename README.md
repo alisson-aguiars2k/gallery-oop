@@ -1,4 +1,4 @@
-## Gallery OOP !  🧑 🧔 👧
+## Gallery OOP !  📸 🎥 🎞️
 <br>
 
 ## Gallery, um aplicação simples, quem tem como objetivo mostrar fotos em forma de galeria com o conceito OOP. 💻 📚
